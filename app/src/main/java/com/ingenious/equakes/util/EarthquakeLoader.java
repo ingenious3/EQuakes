@@ -1,7 +1,10 @@
-package com.ingenious.equakes;
+package com.ingenious.equakes.util;
 
 import android.content.AsyncTaskLoader;
 import android.content.Context;
+
+
+import com.ingenious.equakes.model.Earthquake;
 
 import java.util.ArrayList;
 
